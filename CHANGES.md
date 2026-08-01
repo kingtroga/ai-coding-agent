@@ -16,7 +16,7 @@ The application has been improved to allow users to organize and search their no
             "content": "Discussed Q3 strategy.",
             "tags": ["work", "meeting", "strategy"]
         }
-        ```
+```
 
     *   If no `tags` are provided during creation, the field will default to an empty array. If no `tags` are provided during an update, the existing tags will remain unchanged (or be removed if an empty array is explicitly sent).
 
