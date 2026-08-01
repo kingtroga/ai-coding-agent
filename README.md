@@ -198,3 +198,5 @@ and plans/implements accordingly. A natural extension discussed in the
 interview could be giving it a short-term memory of previous runs (e.g.
 by seeding the conversation with the prior transcript) so iterative
 requests don't require re-exploring the whole repo every time.
+
+Google Demo Link: https://drive.google.com/file/d/1Hg1HtiPUT1ZjT8qhAEyJwJ7b98rbUkzO/view?usp=sharing
